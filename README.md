@@ -1,4 +1,2 @@
 # Curriculo_Resume
-Meu currículo atualizado.
-
-My resume.
+Meu currículo atualizado e minha carta de apresentação.
